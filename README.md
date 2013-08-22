@@ -11,7 +11,7 @@
 Deploy Operation
 <li>1.) Download the repo to your desktop/computer</li>
 <li>2.) Open yout terminal and CD to the director that holds wordy-bastards</li>
-<li><3.) Type "ruby LineByLine.rb"</li>
+<li>3.) Type "ruby LineByLine.rb"</li>
 <li>4.) Type in the director listing of the text file you want to have read. (We supplied you with a few one of them is definitely not a classic)</li>
 <li>5.) A new .txt should be in your directory with a proper list of words and the number of times they have been used</li>
 </ul>
