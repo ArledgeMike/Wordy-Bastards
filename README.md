@@ -1,5 +1,5 @@
 <h1>Wordy Bastards</h1>
-<img src="" />
+<img src="https://raw.github.com/ArledgeMike/Wordy-Bastards/master/images/wordybastards.png" />
 
 <h2>A Ruby Command Line Word Counting App</h2>
 
