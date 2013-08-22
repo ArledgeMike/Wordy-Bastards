@@ -3,7 +3,7 @@
 
 <h2>A Ruby Command Line Word Counting App</h2>
 
-<p>Version 1.0 - dickens>/p>
+<p>Version 1.0 - dickens</p>
 
 <p>Another command line tool written in Ruby. Lots of authors have the dubious distinction of being too wordy. Follow the instructions at the prompt and see a complete word count from some of the classics we supplied you with.</p?
 
